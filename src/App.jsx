@@ -66,7 +66,7 @@ function TextToImageConverter() {
         )}
       </div>
       {imageSrc && <img src={imageSrc} alt="Converted Image" />}
-      <footer className="footer">© 2024 Text to Image Converter</footer>
+      <footer className="footer">© 2024 Text to Image Converter With ❤️ by Raghav</footer>
     </div>
   );
 }
